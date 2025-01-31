@@ -3,11 +3,11 @@
 
 # AnantaSphere: Redefining AR/VR Wearable Experiences
 
-**RESEARCH **
+RESEARCH
 
 My work is based on research on many apps but especially the Apple Vision Pro, one of the leading AR/VR devices. Although these devices come with advanced features, they also face problems like being bulky, less emotion-based interactive, and lacking intuitive control. I'm trying to resolve these issues by introducing AnantaSphere, a wearable AR/VR ecosystem with lightweight design, emotion-based adaptability, and gesture control.
 
-****LIMITATIONS AND POTENTIALS ****
+LIMITATIONS AND POTENTIALS
 
 - Low emotional responsiveness → AnantaSphere changes AR/VR environments in real time by using AI-driven biometric monitoring based on the user's emotions.  
 - Bulky and clumsy designs → Our device has a sleek, ergonomic design to be worn all day long.  

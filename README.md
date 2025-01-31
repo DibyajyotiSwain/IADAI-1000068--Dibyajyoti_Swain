@@ -3,9 +3,11 @@
 
 # AnantaSphere: Redefining AR/VR Wearable Experiences
 
-RESEARCH 
+**RESEARCH **
 
 My work is based on research on many apps but especially the Apple Vision Pro, one of the leading AR/VR devices. Although these devices come with advanced features, they also face problems like being bulky, less emotion-based interactive, and lacking intuitive control. I'm trying to resolve these issues by introducing AnantaSphere, a wearable AR/VR ecosystem with lightweight design, emotion-based adaptability, and gesture control.
+
+****LIMITATIONS AND POTENTIALS ****
 
 - Low emotional responsiveness → AnantaSphere changes AR/VR environments in real time by using AI-driven biometric monitoring based on the user's emotions.  
 - Bulky and clumsy designs → Our device has a sleek, ergonomic design to be worn all day long.  
@@ -44,10 +46,7 @@ Users receive **rewards for completing activities** such as workouts, meditation
 #### **10. Customizable Virtual Avatars**  
 AnantaSphere allows users to **create avatars that sync with real-world fashion and biometrics**. The avatar’s clothing **matches real-life outfits**, and its appearance **adapts to the user’s emotional state** in real time.  
 
----
-
-This version ensures all features **fit seamlessly into the app** while keeping them engaging and easy to understand. Let me know if you'd like any refinements! 🚀
-## Prototyping Process  
+**PROTOTYPING PHASE**
 
 - SCAMPER analysis – Explored possibilities to innovate over current AR/VR limitations.  
 - Storyboard visualization – Outlined user interactions for a seamless experience.  
@@ -59,7 +58,7 @@ https://www.figma.com/design/Xv9hUbVjTFCZn5mWyG42Iy/DIBYAJYOTI-SA?node-id=1-2&p=
 https://www.figma.com/proto/Xv9hUbVjTFCZn5mWyG42Iy/DIBYAJYOTI-SA?node-id=1-3&p=f&t=S804qr1wyLvwOG0V-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=1%3A3  
  
 
-ALL OTHER PROTOTYPING RESULTS ARE PROVIDED
+ALL OTHER PROTOTYPES ARE PROVIDED
 
 ## The Meaning of AnantaSphere  
 

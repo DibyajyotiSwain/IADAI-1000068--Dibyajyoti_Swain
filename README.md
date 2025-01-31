@@ -54,7 +54,8 @@ AnantaSphere allows users to **create avatars that sync with real-world fashion 
 - Figma prototype – Designed a clean, user-friendly UI to enhance usability.
   
   Figma Prototype Link:
-https://www.figma.com/design/Xv9hUbVjTFCZn5mWyG42Iy/DIBYAJYOTI-SA?node-id=1-2&p=f&t=S804qr1wyLvwOG0V-0 
+https://www.figma.com/design/Xv9hUbVjTFCZn5mWyG42Iy/DIBYAJYOTI-SA?node-id=1-2&p=f&t=S804qr1wyLvwOG0V-0
+
 https://www.figma.com/proto/Xv9hUbVjTFCZn5mWyG42Iy/DIBYAJYOTI-SA?node-id=1-3&p=f&t=S804qr1wyLvwOG0V-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=1%3A3  
  
 
